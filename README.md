@@ -21,3 +21,4 @@
 :pray:
 
 <p>Project status: <span style="font-weight: bold;">Done<span></p>
+<a href="https://andrei-ciocodeica-travel-blog.netlify.app/">Check the site!!</a>
